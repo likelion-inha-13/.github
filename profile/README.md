@@ -11,14 +11,14 @@
 
 ### 🚀 Frontend
 
-|<img src="https://avatars.githubusercontent.com/u/110239629?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/116332741?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121484561?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/117283341?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/129278491?s=96&v=4" width="80">|
+|<img src="https://avatars.githubusercontent.com/u/112244094?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121391545?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/163654696?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/127104536?v=4" width="80">|
 |:---:|:---:|:---:|:---:|:---:|
-|[이상혁](https://github.com/lexxsh)|[오지환](https://github.com/returntoOZ)|[최주용](https://github.com/wuzoo)|[김나현](https://github.com/Nahyeonnnn)|[홍성준](https://github.com/Junepluson)|
-|FE-회장|FE-부회장|FE-FE장|FE-홍보|FE-홍보|
+|[최효리](https://github.com/hyoring030)|[장재혁](https://github.com/thisjheok)|[전수빈](https://github.com/snuubinny)|[김예린](https://github.com/yerroong)|
+|FE-부회장|FE-FE장|FE-기획|FE-홍보|
 
 ### 🔥 Backend
 
-|<img src="https://avatars.githubusercontent.com/u/69035864?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121356687?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/125784084?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/97721883?s=96&v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/68095671?s=96&v=4" width="80">|
+|<img src="https://avatars.githubusercontent.com/u/142724910?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/149250433?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/81423073?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/81301003?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/164038275?v=4" width="80">|
 |:---:|:---:|:---:|:---:|:---:|
-|[김승환](https://github.com/kseysh)|[한수현](https://github.com/soozzang)|[박동하](https://github.com/donghapark)|[전주원](https://github.com/juwon0403)|[이서아](https://github.com/seoa-maria)|
-|BE-BE장|BE-총무|BE-홍보|BE-운영|BE-운영|
+|[김기현](https://github.com/kihyunnn)|[김민경](https://github.com/kyoooooong)|[배민혁](https://github.com/bmh7190)|[오다솔](https://github.com/fivedasol)|[이찬형](https://github.com/chanbro0524)|
+|BE-회장|BE-중앙운영단|BE-BE장|BE-총무|BE-홍보|
