@@ -12,7 +12,7 @@
 ### 🚀 Frontend
 
 |<img src="https://avatars.githubusercontent.com/u/112244094?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/121391545?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/163654696?v=4" width="80">|<img src="https://avatars.githubusercontent.com/u/127104536?v=4" width="80">|
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|:---:|
 |[최효리](https://github.com/hyoring030)|[장재혁](https://github.com/thisjheok)|[전수빈](https://github.com/snuubinny)|[김예린](https://github.com/yerroong)|
 |FE-부회장|FE-FE장|FE-기획|FE-홍보|
 
